@@ -8,38 +8,38 @@
     "precision_at_10": 0.9,
     "precision_at_20": 0.9,
     "precision_at_50": 0.84,
-    "roc_auc": 0.6179,
-    "pr_auc": 0.6166
+    "roc_auc": 0.6154,
+    "pr_auc": 0.6148
   },
   "portfolio_distribution": {
     "archetype_mix": {
-      "Standard Monitored Asset": 14272,
-      "Low-Demand Long-Tail": 7985,
-      "CTR Underperformer": 5515,
-      "Engagement Friction Asset": 1211,
-      "High-Demand Evergreen Flagship": 660,
-      "Striking Distance at Risk": 275,
+      "Standard Monitored Asset": 14245,
+      "Low-Demand Long-Tail": 7981,
+      "CTR Underperformer": 5504,
+      "Engagement Friction Asset": 1246,
+      "High-Demand Evergreen Flagship": 672,
+      "Striking Distance at Risk": 270,
       "Thin Visible Underperformer": 82
     },
     "action_mix": {
-      "standard_review": 14272,
-      "monitor_only": 7985,
-      "optimize_title_snippet": 5515,
-      "ux_readability_revamp": 1211,
-      "pillar_depth_audit": 660,
-      "core_freshness_refresh": 275,
+      "standard_review": 14245,
+      "monitor_only": 7981,
+      "optimize_title_snippet": 5504,
+      "ux_readability_revamp": 1246,
+      "pillar_depth_audit": 672,
+      "core_freshness_refresh": 270,
       "expand_content_gap": 82
     },
     "priority_tiers": {
-      "Low": 18781,
-      "Medium": 11147,
-      "High": 72
+      "Low": 18847,
+      "Medium": 11082,
+      "High": 71
     },
     "governance_tiers": {
-      "Standard Sprint Triage (Editor Checklist Required)": 13805,
-      "Automated Deprioritization (No Action Needed)": 10952,
+      "Standard Sprint Triage (Editor Checklist Required)": 13741,
+      "Automated Deprioritization (No Action Needed)": 11009,
       "Mandatory Senior Editorial Review (High Stakes)": 4888,
-      "Mandatory SEO Lead Review (SERP Volatility Check)": 355
+      "Mandatory SEO Lead Review (SERP Volatility Check)": 362
     }
   }
 }
